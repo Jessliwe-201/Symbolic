@@ -1,0 +1,18 @@
+#Next Updates / Roadmap
+
+Planned features for Symbolic.
+
+## Colored ASCII
+Render each character in the color of the original pixel. Imported photos will keep their colors instead of being converted to grayscale. Works great with the `█▓▒░` block set.
+
+## Ctrl+Z — Undo
+Undo / redo actions with `Ctrl+Z` / `Ctrl+Y`. Keeps a history stack of canvas states so you can safely experiment while drawing.
+
+## Theme Switcher
+Switch between multiple color schemes on the fly:
+
+All UI colors change instantly — background, buttons, accents, canvas.
+
+---
+
+_More ideas may be added later._
